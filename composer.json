@@ -5,6 +5,7 @@
   "require": {
     "php": ">=7.1.3"
   },
+  "license": "proprietary",
   "autoload": {
     "psr-4": {
       "wivalidator\\": "src/WiValidator/"
