@@ -1,5 +1,5 @@
 {
-  "name": "click/wivalidator",
+  "name": "clicktrack/wivalidator",
   "description": "Generate random password of a given length",
   "type": "library",
   "require": {
