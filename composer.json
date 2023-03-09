@@ -8,10 +8,11 @@
   "license": "proprietary",
   "autoload": {
     "psr-4": {
-      "wivalidator\\": "src/WiValidator/"
+      "WiValidator\\": "src/WiValidator/"
     },
     "files": [
-      "src/WiValidator/Validator.php"
+      "src/WiValidator/Validator.php",
+      "src/WiValidator/CustomException.php"
     ]
   }
 }
