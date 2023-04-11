@@ -1,6 +1,6 @@
 {
-  "name": "clicktrack/wivalidator",
-  "description": "wivalidator",
+  "name": "track/validator",
+  "description": "validator",
   "type": "library",
   "require": {
     "php": ">=7.1.3"
