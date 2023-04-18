@@ -8,7 +8,7 @@
   "license": "proprietary",
   "autoload": {
     "psr-4": {
-      "wivalidator\\": "src/WiValidator/"
+      "track\\": "src/WiValidator/"
     },
     "files": [
       "src/WiValidator/Validator.php"
