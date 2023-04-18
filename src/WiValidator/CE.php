@@ -1,6 +1,6 @@
 <?php
 
-namespace wivalidator;
+namespace track;
  
 use Exception;
 class CE extends Exception
